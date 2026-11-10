@@ -1,5 +1,7 @@
 # Llama Assistant Terminal
 
+!!!Disclaimer!!! -> with google ai studio create API key and use it in .env file
+
 A voice + text assistant for macOS that runs mostly on local models (Ollama) and calls Gemini for coding.
 
 ## Setup
