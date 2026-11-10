@@ -1,0 +1,13 @@
+# Core
+ollama
+SpeechRecognition
+pyaudio            # needs: brew install portaudio
+faster-whisper
+numpy
+ddgs
+# Gemini (coding, screen questions, hard tasks)
+google-genai
+python-dotenv
+# Optional
+# pynput           # global push-to-talk hotkey (/help shows the key combination)
+# mlx-whisper      # faster speech recognition on Apple Silicon: /stt mlx
